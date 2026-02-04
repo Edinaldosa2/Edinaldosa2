@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Edinaldo Sá
+#  Hi, I'm Edinaldo Sá
 
 Senior Software Engineer & Solution Architect  
 .NET (C#) | Azure & AWS Cloud | Application Security | Scalable Enterprise Systems
