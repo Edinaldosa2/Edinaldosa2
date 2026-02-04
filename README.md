@@ -65,5 +65,5 @@ Senior Software Engineer & Solution Architect
 ---
 
 ## 📫 Contact
-- 💼 LinkedIn: https://linkedin.com/in/SEU-LINK
-- ✉️ Email: seu@email.com
+- 💼 LinkedIn: https://linkedin.com/in/edinaldosa/
+- ✉️ Email: Edinaldosati@gmail.com
