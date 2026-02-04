@@ -29,17 +29,20 @@ Senior Software Engineer & Solution Architect
 - RESTful APIs, Web APIs, Microservices
 - Java
 - Python (Django)
+---
 
 ### Frontend
 - React
 - Angular
 - JavaScript, HTML, CSS
+---
 
 ### Cloud & DevOps
 - Microsoft Azure (App Services, Functions, Azure DevOps)
 - Amazon Web Services (AWS)
 - Docker, Containers
 - CI/CD Pipelines (GitHub Actions, Jenkins)
+---
 
 ### Databases
 - SQL Server (performance tuning, complex queries)
@@ -49,6 +52,8 @@ Senior Software Engineer & Solution Architect
 - Cosmos DB
 - Informix
 - Microsoft Access (legacy systems
+  
+---
 
 ### Data & Integration
 - ERP integrations (SAP S/4HANA, TOTVS)
